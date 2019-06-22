@@ -1,0 +1,4 @@
+#Fri Jun 14 12:23:19 AMT 2019
+base.0=/Users/pauloegk/Documents/pessoal/flutter/people_counter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
